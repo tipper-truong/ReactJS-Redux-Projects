@@ -2,6 +2,9 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+### Modern React with Redux by Stephen Grider
+https://www.udemy.com/react-redux
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
