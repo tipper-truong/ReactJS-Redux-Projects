@@ -1,10 +1,5 @@
 
-# Modern React with Redux by Stephen Grider
-
-### Status: Completed
-
-https://www.udemy.com/react-redux
-
+# ReactJS/Redux Projects
 
 ![alt text](http://blog-assets.risingstack.com/2016/Jan/react_best_practices-1453211146748.png)
 
